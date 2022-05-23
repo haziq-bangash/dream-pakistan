@@ -34,14 +34,14 @@ const Sidebar = () => {
         </LogoContainer>
        <NavItemsContainer>
        {categories.map((category, index) => (
-          <Link key={index} href={`/category/${category.slug}`} >
+          
           <NavItem key={index} >
                 <NavIcon>
                    <MdLocationOn />
                 </NavIcon>
                 <NavTitle>{category.name}</NavTitle>
           </NavItem>
-          </Link>
+         
       ))}      
        </NavItemsContainer>
     </Wrapper>
