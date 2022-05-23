@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 import styled from 'styled-components';
 
-import {festivals} from '../static/Festivals'
+import {festivals} from '../static/festivals'
 
 import { MdLocationOn} from 'react-icons/md'
 
