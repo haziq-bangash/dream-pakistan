@@ -6,7 +6,7 @@ import styled from 'styled-components';
 
 import Slide from './Slide'
 
-import bg from '../Assets-Copy/kumrat.jpg';
+import bg from '../Assets/kumrat.jpg';
 
 import { MdLocationOn, MdPhotoCamera } from 'react-icons/md'
 
